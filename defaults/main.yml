@@ -1,0 +1,6 @@
+---
+install: false
+configure: false
+boxes_google_chrome:
+  install: false
+  configure: false
