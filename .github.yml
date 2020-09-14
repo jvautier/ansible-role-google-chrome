@@ -1,0 +1,8 @@
+---
+fullname: jvautier/ansible-role-google-chrome
+description: Install google-chrome clients through ansible
+tags:
+  - ansible
+  - ansible-role
+  - google-chrome
+github: {}
