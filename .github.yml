@@ -1,4 +1,5 @@
 ---
+# See https://github.com/jvautier/project-cli
 fullname: jvautier/ansible-role-google-chrome
 description: Install google-chrome clients through ansible
 tags:
